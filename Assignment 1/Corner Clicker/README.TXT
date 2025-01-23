@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Assignment:
+Create an application that uses a single event handler which responds to a mouse click and
+tells the user which quadrant of the screen they clicked on (top-left, bottom-left, top-right,
+bottom-right) by displaying this information in a Label in the center.
