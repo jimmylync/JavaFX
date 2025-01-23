@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CornerClicker
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mainStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=event
+comment3.target=void\ handle(javafx.scene.input.MouseEvent)
+numComments=4
