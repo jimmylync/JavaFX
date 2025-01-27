@@ -1,12 +1,10 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Assignment:
+Make the following improvements to the SimplePaint program:
+  • Add a MenuBar that includes a File menu containing items New, Open, Save actions, as well
+    as Quit and shortcut key combinations.
+    (Remove the corresponding Buttons, as they are no longer needed.)
+  • In a separate menu group, add an item that displays an informational alert window that
+    credits you as the developer.
+  • Create a set of colored buttons along the left edge of the screen that implement all 10 of the
+    given fill colors. Your implementation should use the provided Color arrays from class and
+    initialize them using a loop; minimize or remove redundant code.
