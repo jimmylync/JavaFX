@@ -1,12 +1,24 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Assignment:
+Design and create a menu system for a library program. Categories to include: “Search” and
+“Library Information” appear in the menu bar, with submenus as follows:
+• Search
+  o Books
+    ▪ Title
+    ▪ Author
+    ▪ Subject
+    ▪ Call Number
+  o Movies
+    ▪ Title
+    ▪ Actor
+    ▪ Director
+  o Music
+    ▪ Artist/Band
+    ▪ Album
+    ▪ Song
+• Library Information
+  o Hours and Location
+  o Employment Opportunities
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Place a Label in the center of the window that initially says “Please select an item.” When any of
+the 12 menu items are selected, the text of the label should change to indicate what object was
+selected.
