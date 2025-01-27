@@ -1,12 +1,15 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Assignment:
+Design and implement a layout that contains exactly 19 buttons for a calculator app as follows.
+ Do not code any functionality for the buttons at this time.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The digits: [0] [1] [2] [3] [4] [5] [6] [7] [8] [9]
+
+The operations/functions:
+[plus] [minus] [times] [divides] [equals] [decimal point] [clear] [all clear] [delete]
+
+Also include a TextField that spans across the top.
+
+The buttons should not rearrange themselves when the window is resized.
+
+Use Unicode characters for the minus, times, divides, and delete keys. (e.g. “\u00F7” will create
+the traditional division symbol, preferable to a backslash).
