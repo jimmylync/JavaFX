@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Assignment:
+Using the class LineGrapher from class as a starting point, create a class named QuadraticGrapher
+that graphs quadratic functions of the form y = ax2 + bx + c; the user should be able to adjust
+values of the coefficients using sliders, and the equation should be displayed on the canvas.
