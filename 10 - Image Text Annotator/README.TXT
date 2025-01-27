@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Assignment:
+Using the TextAnnotator class as a starting point, use what you have learned in this class to
+improve the application as much as you can. This may include adding new controls, menus,
+reorganizing or redesigning the layout, error checking, adding extra features, etc.
